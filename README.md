@@ -16,7 +16,7 @@ This data analysis project aims to provide insight into the sales performance of
 
 ## Project Overview
 
-This data analysis project aims to provide insight into the sales performance of an e-commerce store over the past year. By analyzing various items and aspects of sales data, I seek to identify trends to aid the management in making strategic decisions for the coming year and gain a deeper understanding of the company's performance.
+This data analysis project aims to provide insight into the sales performance of Platinum Consults over the past year. By analyzing various items and aspects of sales data, I seek to identify trends to aid the management in making strategic decisions for the coming year and gain a deeper understanding of the company's performance.
 
 ## Data sources
 
@@ -74,3 +74,7 @@ Based on the analysis and results, I recommend the following actions;
  - Invest in marketing and promotions during peak sales seasons to maximize revenue for example January(new year season), February(Valentine's season), and April (Easter season).
  - Miss. Nancy is the best-performing salesperson of the year, it is recommended she gets promoted to the western region of the company to improve the company's productivity.
  - Ms. Jan has the lowest sales on the list, she needs some more courses on learning about marketing.
+
+### Limitations
+
+I had to remove all zero values from budget and revenue columns because they would have affected the accuracy of my conclusions from the analysis. 
