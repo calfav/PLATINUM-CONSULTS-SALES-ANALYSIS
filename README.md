@@ -11,6 +11,7 @@ This data analysis project aims to provide insight into the sales performance of
 - [Data analysis](#data-analysis)
 - [Results](#results)
 - [Recommendations](#recommendations)
+- [Limitations](#limitations)
 
 
 
