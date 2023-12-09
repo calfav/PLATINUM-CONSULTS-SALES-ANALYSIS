@@ -20,7 +20,7 @@ This data analysis project aims to provide insight into the sales performance of
 
 ## Data sources
 
-Sales Data: The primary dataset used for this analysis is the "sales_data.csv" file containing detailed information about each sale made by the company.
+Sales Data: The primary dataset used for this analysis is the "platinum consults.csv" file containing detailed information about each sale made by the company.
 
 ## Tools
 
@@ -54,7 +54,7 @@ EDA involved exploring the sales data to answer key questions, such as;
 ## Data analysis 
 
 [Dashboard](EXCEL PROJECT.png) 
- ![EXCEL PROJECT](https://github.com/OluchiTheAnalyst/EXCEL_PROJECTS/assets/152318870/660e508d-4029-4e73-85b1-10faf2a75ad5)
+ ![EXCEL PROJECT](https://github.com/calfav/Platinum-Consults-Sales-Analysis/blob/main/Platinum%20Consults%20sales%20dashboard.JPG)
 
 
 ## Results
